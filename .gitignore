@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Игнорим tailwindcss бинарник
+tailwindcss-windows-x64.exe
+
